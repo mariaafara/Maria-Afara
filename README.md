@@ -15,7 +15,7 @@
 </tr>
 <tr>
    <td>
-<strong>Goals I am working with currently:</strong>
+<strong>Goals I am working on currently:</strong>
 <br>
 <br>
 
@@ -27,7 +27,7 @@
 </tr>
 <tr>
   <td>
-<strong>Some libraries I am working on currently :computer::</strong>
+<strong>Some libraries I am working with currently :computer::</strong>
 <br>
 <br>
 <img align="left" alt="Tensorflow" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" />
