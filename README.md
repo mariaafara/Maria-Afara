@@ -15,7 +15,7 @@
 </tr>
 <tr>
    <td>
-<strong>Goals I am working on currently:</strong>
+<strong>Goals I am working with currently:</strong>
 <br>
 <br>
 
@@ -45,5 +45,4 @@
 [<img align="left" title="LinkedIn" alt="mariaafara | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/mariaafara/
-<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariaafara&color=blueviolet" alt="mariaafara" /> </p></div>
