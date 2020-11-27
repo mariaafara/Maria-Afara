@@ -19,8 +19,8 @@
 <br>
 <br>
 
-- Completing [DeepLearning.AI TensorFlow Developer Specialization](https://www.coursera.org/professional-certificates/tensorflow-in-practice) on Coursera 
-- Continue developing my skills in TensorFlow by taking [TensorFlow: Data and Deployment Specialization](https://www.coursera.org/specializations/tensorflow-data-and-deployment)
+- [x] Complete [DeepLearning.AI TensorFlow Developer Specialization](https://www.coursera.org/professional-certificates/tensorflow-in-practice) on Coursera 
+- Complete [TensorFlow: Data and Deployment Specialization](https://www.coursera.org/specializations/tensorflow-data-and-deployment)
 - Continuously work on Neural Machine Translation project
 - Continuously work on Facial Landmark Detection project
 </td>
