@@ -36,7 +36,7 @@
 <img align="left" alt="Pandas" width="70px"  src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" />
 <img align="left" alt="Numpy" width="70px"  hight="36px" src="https://github.com/numpy/numpy/blob/7e7f4adab814b223f7f917369a72757cd28b10cb/branding/icons/numpylogo.svg" />
 <img align="left" alt="Sklearn" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/640px-Scikit_learn_logo_small.svg.png" />
-<img align="left" alt="Matplotlib" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" />
+<img align="left" alt="Docker"  width="70px" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/vertical-logo-monochromatic.png?itok=erja9lKc" />
 </td>
 </tr>
 </table>
