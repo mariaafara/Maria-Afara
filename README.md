@@ -29,14 +29,14 @@
 <strong>Some libraries I am working with currently :computer::</strong>
 <br>
 <br>
-<img align="left" alt="Tensorflow" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" />
-<img align="left" alt="Keras" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" />
-<img align="left" alt="Pytorch"  width="100px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" />
+<img align="left" alt="Tensorflow" width="56px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" />
+<img align="left" alt="Keras" width="56px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" />
+<img align="left" alt="Pytorch"  width="130px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" />
 
-<img align="left" alt="Pandas" width="70px"  src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" />
-<img align="left" alt="Numpy" width="70px"  hight="36px" src="https://github.com/numpy/numpy/blob/7e7f4adab814b223f7f917369a72757cd28b10cb/branding/icons/numpylogo.svg" />
-<img align="left" alt="Sklearn" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/640px-Scikit_learn_logo_small.svg.png" />
-<img align="left" alt="Docker"  width="70px" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/vertical-logo-monochromatic.png?itok=erja9lKc" />
+<img align="left" alt="Pandas" width="120px" hight="56px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" />
+<img align="left" alt="Numpy" width="120px"  src="https://github.com/numpy/numpy/blob/7e7f4adab814b223f7f917369a72757cd28b10cb/branding/icons/numpylogo.svg" />
+<img align="left" alt="Sklearn" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/640px-Scikit_learn_logo_small.svg.png" />
+<img align="left" alt="Docker"  width="80px" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/vertical-logo-monochromatic.png?itok=erja9lKc" />
 </td>
 </tr>
 </table>
