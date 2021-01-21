@@ -19,10 +19,9 @@
 <br>
 <br>
 
-- [x] Complete [DeepLearning.AI TensorFlow Developer Specialization](https://www.coursera.org/professional-certificates/tensorflow-in-practice) on Coursera 
-- Complete [TensorFlow: Data and Deployment Specialization](https://www.coursera.org/specializations/tensorflow-data-and-deployment)
-- Continuously work on Neural Machine Translation project
-- Continuously work on Facial Landmark Detection project
+- Participating in ICDAR2021 Competition: Multimodal Emotion Recognition on Comics scenes.
+- Working on Facial Landmark Detection project.
+- Improving my French Language.
 </td>
 </tr>
 <tr>
