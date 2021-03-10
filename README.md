@@ -9,7 +9,7 @@
 
 - 👨‍💻 I recently graduated with master 2 in Natural Language Processing in France.
 - 🌱 I’m currently developing my skills in the fields of NLP, Computer Vision, Deep Learning, Machine Learning and Data Science.
-- 🥅 2021-2022 Goals: To get the desired position.
+- 🥅 2021-2022 Goals: Gain professional experience.
 - ⚡ Fun fact: I love learning. I am always seeking new opportunities to learn. Also, I love to draw, cook, swim and watch movies or TV series.
 </td>
 </tr>
