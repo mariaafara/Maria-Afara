@@ -7,7 +7,7 @@
 <br>
 <br>
 
-- 👨‍💻 I am an NLP Enginer at Acolad in France.
+- 👨‍💻 I am an ML NLP Enginer at Acolad in France.
 - 🌱 I’m continuously developing my skills in the fields of Machine Learning, NLP, Deep Learning, Data Science and Big Data.
 - ⚡ Fun fact: I love learning. I am always seeking new opportunities to learn. Also, I love to draw, cook, swim, crochet and watch movies or TV series.
 </td>
