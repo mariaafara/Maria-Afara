@@ -26,10 +26,14 @@
 <img align="left" alt="Sklearn" width="60px"  hight="66px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/640px-Scikit_learn_logo_small.svg.png" />
 <img align="left" alt="Docker"  width="90px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" />
   <img align="left" alt="AirFlow"  width="70px" src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" />
-  <img align="left" alt="Spark"  width="60px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" />
-    <img align="left" alt="FastaPI"  width="100px" src="https://upload.wikimedia.org/wikiversity/en/8/8c/FastAPI_logo.png" />
-        <img align="left" alt="Spacy"  width="60px" src="https://upload.wikimedia.org/wikipedia/commons/8/88/SpaCy_logo.svg" />
-        <img align="left" alt="GithubActions"  width="40px" src="https://avatars.githubusercontent.com/u/54465427?v=4" />
+<img align="left" alt="Spark"  width="60px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" />
+  <img align="left" alt="FastaPI"  width="100px" src="https://upload.wikimedia.org/wikiversity/en/8/8c/FastAPI_logo.png" />
+   <img align="left" alt="Spacy"  width="60px" src="https://upload.wikimedia.org/wikipedia/commons/8/88/SpaCy_logo.svg" />
+   <img align="left" alt="GithubActions"  width="40px" src="https://avatars.githubusercontent.com/u/54465427?v=4" />
+   <img align="left" alt="GithubActions"  width="45px" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" />
+    <img align="left" alt="GithubActions"  width="90px" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" />
+
+
 
 </td>
 </tr>
